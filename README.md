@@ -1,29 +1,29 @@
-### INSTALLATION
+## INSTALLATION
 
 ~ yarn
 
 
 
-### RUNNING THE APP
+## RUNNING THE APP
 
-# development
+### development
 ~ yarn run start
 
-# watch mode
+### watch mode
 ~ yarn run start:dev
 
-# production mode
+### production mode
 ~ yarn run start:prod
 
 
 
-### TEST
+## TEST
 
-# unit tests
+### unit tests
 ~ yarn run test
 
-# e2e tests
+### e2e tests
 ~ yarn run test:e2e
 
-# test coverage
+### test coverage
 ~ yarn run test:cov
